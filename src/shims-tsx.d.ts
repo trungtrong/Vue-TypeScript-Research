@@ -11,3 +11,6 @@ declare global {
     }
   }
 }
+
+// https://medium.com/@karl.lee/vue-cli-3-typescript-a-quick-start-guide-324a18859485
+// Allows the use of .tsx files. Read more about this here.
